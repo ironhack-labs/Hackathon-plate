@@ -45,7 +45,26 @@ nav {
 
 
 
+html {
+  scroll-behavior: smooth;
+}
 
+#menu {
+    width: 100%;
+    background-color: green;
+    position: fixed;
+    position: fixed;
+    overflow: auto;  
+}
+
+nav li {
+    display: inline;
+}
+
+
+#top {
+  height:50px;
+}
 
 
 
